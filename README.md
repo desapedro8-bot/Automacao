@@ -1,2 +1,2 @@
-# Automaco
+# Automacão
 Automatizando tarefas
